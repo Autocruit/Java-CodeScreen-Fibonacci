@@ -1,4 +1,4 @@
-# Java-Coding-Test-Fibonacci
+# Java-CodeScreen-Fibonacci
 Example CodeScreen Java coding test that requires the candidate to write a method that returns the nth element in the Fibonacci sequence.
 
 The class to write this method in is src/main/java/autocruit/FibonacciCalculator.java.
