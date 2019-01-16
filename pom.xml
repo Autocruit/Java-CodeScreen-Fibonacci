@@ -13,7 +13,7 @@
         <jacoco.version>0.8.2</jacoco.version>
         <guava.version>25.1-jre</guava.version>
         <maven-surefire-report-plugin.version>2.22.0</maven-surefire-report-plugin.version>
-        <maven-failsafe-plugin.version>2.22.0</maven-failsafe-plugin.version>
+        <maven-failsafe-plugin.version>2.22.1</maven-failsafe-plugin.version>
         <maven-checkstyle-plugin.version>2.17</maven-checkstyle-plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
