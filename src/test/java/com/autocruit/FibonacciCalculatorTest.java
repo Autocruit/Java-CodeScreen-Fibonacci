@@ -1,7 +1,11 @@
+/*
+ * Copyright (C) 2018 - present by AUTOCRUIT LIMITED
+ *
+ * Please see distribution for license.
+ */
 package com.autocruit;
 
-import  org.junit.*;
-
+import org.junit.Assert;
 import org.junit.Test;
 
 public class FibonacciCalculatorTest {
