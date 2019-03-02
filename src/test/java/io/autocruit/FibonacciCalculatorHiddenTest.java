@@ -3,7 +3,7 @@
  *
  * Please see distribution for license.
  */
-package com.autocruit;
+package io.autocruit;
 
 import org.junit.Assert;
 import org.junit.Test;
