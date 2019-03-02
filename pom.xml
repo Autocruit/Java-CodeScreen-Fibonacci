@@ -6,7 +6,7 @@
 
     <groupId>io.autocruit</groupId>
     <artifactId>java-coding-test</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <junit.version>4.12</junit.version>
