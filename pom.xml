@@ -10,7 +10,7 @@
 
     <properties>
         <junit.version>4.12</junit.version>
-        <jacoco.version>0.8.3</jacoco.version>
+        <jacoco.version>0.8.4</jacoco.version>
         <guava.version>27.1-jre</guava.version>
         <maven-surefire-report-plugin.version>2.22.1</maven-surefire-report-plugin.version>
         <maven-failsafe-plugin.version>2.22.1</maven-failsafe-plugin.version>
@@ -83,7 +83,7 @@
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-                <version>0.8.3</version>
+                <version>0.8.4</version>
                 <executions>
                     <execution>
                         <id>default-prepare-agent</id>
