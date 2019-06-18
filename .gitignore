@@ -3,6 +3,9 @@
 
 target/
 autocruit/test/output/results
+autocruit/coverage/output/results
+*/autocruit/test/output/results
+*/autocruit/coverage/output/results
 
 # Log file
 *.log

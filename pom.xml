@@ -93,6 +93,9 @@
                         </goals>
                     </execution>
                 </executions>
+                <configuration>
+                    <outputDirectory>autocruit/coverage/output/results</outputDirectory>
+                </configuration>
             </plugin>
             <!-- checkstyle -->
             <plugin>
