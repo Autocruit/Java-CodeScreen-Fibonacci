@@ -1,5 +1,5 @@
 # Java-CodeScreen-Fibonacci
-Example CodeScreen Java coding test that requires the candidate to write a method that returns the nth element in the Fibonacci sequence.
+Example CodeScreen Java coding assessment that requires the candidate to write a method that returns the nth element in the Fibonacci sequence.
 
 The sequence is assumed to be 0-indexed, with fibonacci(0) returning 0 and fibonacci(1) returning 1.
 
