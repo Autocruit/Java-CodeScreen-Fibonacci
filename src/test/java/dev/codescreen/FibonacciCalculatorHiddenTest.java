@@ -3,7 +3,7 @@
  *
  * Please see distribution for license.
  */
-package io.autocruit;
+package dev.codescreen;
 
 import org.junit.Assert;
 import org.junit.Test;
