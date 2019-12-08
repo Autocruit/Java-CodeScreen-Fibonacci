@@ -1,8 +1,3 @@
-/*
- * Copyright (C) 2018 - present by AUTOCRUIT LIMITED
- *
- * Please see distribution for license.
- */
 package dev.codescreen;
 
 import org.junit.Assert;
@@ -12,21 +7,21 @@ public class FibonacciCalculatorHiddenTest {
 
   @Test
   public void testHidden_1() {
-    Assert.assertEquals(FibonacciCalculator.calculate(14), 377);
+    Assert.assertEquals(377, FibonacciCalculator.calculate(14));
   }
 
   @Test
   public void testHidden_2() {
-    Assert.assertEquals(FibonacciCalculator.calculate(15), 610);
+    Assert.assertEquals(610, FibonacciCalculator.calculate(15));
   }
 
   @Test
   public void testHidden_3() {
-    Assert.assertEquals(FibonacciCalculator.calculate(18), 2584);
+    Assert.assertEquals(2584, FibonacciCalculator.calculate(18));
   }
 
   @Test
   public void testHidden_4() {
-    Assert.assertEquals(FibonacciCalculator.calculate(19), 4181);
+    Assert.assertEquals(4181, FibonacciCalculator.calculate(19));
   }
 }
