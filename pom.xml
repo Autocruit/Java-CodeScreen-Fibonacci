@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13</junit.version>
         <jacoco.version>0.8.4</jacoco.version>
         <guava.version>28.0-jre</guava.version>
         <maven-surefire-report-plugin.version>2.22.2</maven-surefire-report-plugin.version>
