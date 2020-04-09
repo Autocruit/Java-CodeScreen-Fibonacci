@@ -1,27 +1,29 @@
 package dev.codescreen;
 
-import org.junit.Assert;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class FibonacciCalculatorHiddenTest {
 
   @Test
-  public void testHidden_1() {
-    Assert.assertEquals(377, FibonacciCalculator.calculate(14));
+  public void testHidden1() {
+    assertEquals(377, FibonacciCalculator.calculate(14));
   }
 
   @Test
-  public void testHidden_2() {
-    Assert.assertEquals(610, FibonacciCalculator.calculate(15));
+  public void testHidden2() {
+    assertEquals(610, FibonacciCalculator.calculate(15));
   }
 
   @Test
-  public void testHidden_3() {
-    Assert.assertEquals(2584, FibonacciCalculator.calculate(18));
+  public void testHidden3() {
+    assertEquals(2584, FibonacciCalculator.calculate(18));
   }
 
   @Test
-  public void testHidden_4() {
-    Assert.assertEquals(4181, FibonacciCalculator.calculate(19));
+  public void testHidden4() {
+    assertEquals(4181, FibonacciCalculator.calculate(19));
   }
+
 }
