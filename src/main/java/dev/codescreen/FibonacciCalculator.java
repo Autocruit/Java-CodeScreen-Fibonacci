@@ -1,6 +1,6 @@
 package dev.codescreen;
 
-public final class FibonacciCalculator {
+final class FibonacciCalculator {
 
   /**
    * Calculate the nth element in the Fibonacci sequence
@@ -8,8 +8,8 @@ public final class FibonacciCalculator {
    * @param n the nth element
    * @return the nth element in the Fibonacci sequence
    */
-  public static long calculate(int n) {
-     
+  static long calculate(int n) {
+     throw new UnsupportedOperationException("TODO Implement...");
   }
 
 }
