@@ -58,7 +58,7 @@
                 <version>${maven-surefire-report-plugin.version}</version>
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
-                    <reportsDirectory>autocruit/test/output/results</reportsDirectory>
+                    <reportsDirectory>codescreen/test/output/results</reportsDirectory>
                     <forkCount>3</forkCount>
                     <reuseForks>true</reuseForks>
                 </configuration>

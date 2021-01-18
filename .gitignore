@@ -2,10 +2,10 @@
 *.class
 
 target/
-autocruit/test/output/results
-autocruit/coverage/output/results
-*/autocruit/test/output/results
-*/autocruit/coverage/output/results
+codescreen/test/output/results
+codescreen/coverage/output/results
+*/codescreen/test/output/results
+*/codescreen/coverage/output/results
 
 # Log file
 *.log
