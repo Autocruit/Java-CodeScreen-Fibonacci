@@ -10,7 +10,7 @@
 
     <properties>
         <junit.version>4.13.1</junit.version>
-        <jacoco.version>0.8.4</jacoco.version>
+        <jacoco.version>0.8.7</jacoco.version>
         <guava.version>28.0-jre</guava.version>
         <maven-surefire-report-plugin.version>2.22.2</maven-surefire-report-plugin.version>
         <maven-failsafe-plugin.version>2.22.2</maven-failsafe-plugin.version>
